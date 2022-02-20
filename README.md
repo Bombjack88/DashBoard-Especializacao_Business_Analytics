@@ -3,7 +3,9 @@
 3 dashboards preparados como projeto final da especialização em Business Analytics (terminada em fevereiro 2022)
 
 https://bit.ly/Dashboard_ChristmasCarol
+
 https://bit.ly/DashBoard_AdventureWorks
+
 https://bit.ly/Dashboard_EmprestimosPortugal
 
 ### DashBoard 1 - Christmas_carol_dashboard
