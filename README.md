@@ -29,7 +29,7 @@ Informação de vendas, análise de resulatdos, simulação (what if) e recursos
 Base de dados pública obtida em https://bpstat.bportugal.pt/ sobre os empréstimos em Portugal (dados reais).
 Este projeto utiliza o python para retirar a informação estatística do website (código disponibilizado)
 
-![image](https://user-images.githubusercontent.com/10911021/154867018-70cf51e2-6d08-4fb9-b9fc-e4aa90acb6a7.png)
+![image](https://user-images.githubusercontent.com/10911021/154921764-096b0c4f-e58d-4e96-94c7-148d6b0192c9.png)
 
 ![image](https://user-images.githubusercontent.com/10911021/154867036-3036f449-3141-473d-a014-1106de6d322b.png)
 
