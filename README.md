@@ -2,11 +2,11 @@
 
 3 dashboards preparados como projeto final da especialização em Business Analytics (terminada em fevereiro 2022)
 
-https://bit.ly/Dashboard_ChristmasCarol
+https://bit.ly/Christmas_Carol_dash
 
-https://bit.ly/DashBoard_AdventureWorks
+https://bit.ly/Adventure_Works
 
-https://bit.ly/Dashboard_EmprestimosPortugal
+https://bit.ly/Emprestimos_Portugal
 
 ### DashBoard 1 - Christmas_carol_dashboard
 Utiliza uma base de dados de musicas de natal - obtida nos desafios da empresa OnyxData do mês de dezembro de 2021
